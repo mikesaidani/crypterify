@@ -1,0 +1,1 @@
+require('./private').unpack('mypassword')
